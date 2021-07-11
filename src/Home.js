@@ -5,7 +5,7 @@ import "./Home.css";
 function Home() {
         return (
             <div className="home">
-                <img className="home__image" src="./images/home.jpg" alt="" />
+                <img className="home__image" src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Avatar/HeroPC_1500x600_SVA._CB667240774_.jpg" alt="" />
 
                 {/* Product id, title, price, rating, images */}
                 <div className="home__row">
